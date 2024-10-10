@@ -35,8 +35,8 @@ This is a Python-based brute-force hash-cracking tool that aims to identify plai
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/brute-force-hash-cracker.git
-   cd brute-force-hash-cracker
+   git clone https://github.com/pranay-root/brutehash.git
+   cd brutehash
    ```
 2. Install Dependencies: Make sure you have Python installed. The required libraries are part of the Python standard library, so no additional installations are needed.
 
